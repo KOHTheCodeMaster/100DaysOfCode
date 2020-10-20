@@ -1,10 +1,31 @@
 # 100DaysOfCode
 Documenting My Journey Of  '#100DaysOfCode'
 
+----------------------------------------------------------------------------------------------------
+
+Day 01: Intro. to HTML
+20th October 2K20, 22:47
+
+#100daysofcode #html
+
+Learnings: HTML boilerplate code, tables, forms, inputs and other tag elements
+
+Thoughts: 
+Completed the basics as well as intermediate of HTML. As I already knew some of the basics, so it didn't took me long to complete it. Reviewed the basics of HTML and got grasp over tables, forms & several input elements. 
+
+"Learning is an active process. We learn by doing. Only knowledge that is used sticks in your mind." ~Dale Carnegie
+
+Since I believe in this philosophy, no matter how little or small it be, I try to use the knowledge to make something out of it. So, using plain HTML tables I made simple chart of first gen Pokemon. Although it is nothing beautiful but that is for later part when CSS comes into the picture for styling.
+
+It was the first day and I could already feel its going to be an amazing journey. Good start, looking forward to grab the pace & keep learning.
+
+Work Link: https://github.com/KOHTheCodeMaster/WebFundamentals
 
 ----------------------------------------------------------------------------------------------------
 
+
 Day 01: 100 Days Of Code
+20th October 2K20, 01:55 PM
 
 #100daysofcode
 
@@ -30,4 +51,3 @@ Rules
    e. Others - Books & other references
 
 ----------------------------------------------------------------------------------------------------
-
