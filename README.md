@@ -3,8 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #css #webdevelopment 
+
+Day 02: Intro. to CSS
+21st October 2K20, 10:50 PM
+
+Learnings: basics of CSS, colors, borders, CSS selectors, advanced CSS selectors, texts & fonts, google fonts
+
+Thoughts:
+Covered up the basics of CSS. Its actually fun & am already enjoying it. Got the grasp of general rules of CSS. Although didn't made any beautifully styled pages yet but understood the convention of using external CSS stylesheets for all the styling & HTML for only the structure of the web page.
+
+Work Link: https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 Day 01: Intro. to HTML
-20th October 2K20, 22:47
+20th October 2K20, 10:47 PM
 
 #100daysofcode #html
 
