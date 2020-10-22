@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #css #webdevelopment
+
+Day 03: Image Gallery
+22nd October 2K20, 08:41 PM
+
+Learnings: CSS box model, margin, padding, img, float
+
+Thoughts:
+Understood the concept of box model and how each element is treated as a box in CSS. Took an attempt to design simple Tic-Tac-Toe game board using CSS borders.
+Designed basic Image Gallery page which made me realize the power of CSS. Looking at the results before & after applying CSS is astonishing.
+
+Work Link: https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #css #webdevelopment 
 
 Day 02: Intro. to CSS
