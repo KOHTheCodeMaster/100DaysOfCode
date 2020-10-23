@@ -3,6 +3,20 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #css #webdevelopment 
+
+Day 04: Designed Blog Article Page
+23rd October 2K20, 08:23 PM
+
+Learnings: linear-gradient, letter-spacing, text-transform, horizontal ruler, margin, padding
+
+Thoughts:
+Completed the basics & intermediate units of CSS. Although there's still plenty left to learn in-depth & it'll be mastered gradually with time. Designed simple 'Blog Article' web page using plain HTML & CSS. Next will begin with Bootstrap.
+
+Work Link: https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #css #webdevelopment
 
 Day 03: Image Gallery
