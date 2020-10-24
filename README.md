@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #bootstrap #webdevelopment 
+
+Day 05: Basics of Bootstrap
+24th October 2K20, 08:29 PM
+
+Learnings: 
+Bootstrap buttons - outline, sizes, active, disabled, block
+Bootstrap forms - form-group, form-control, form-text, text-muted, form-check, form-check-input, form-check-label, aria-describedby, small
+
+Thoughts:
+Introduction to bootstrap framework for designing faster & easier with huge collection of classes. Explored the official docs pf bootstrap and worked with buttons & forms.
+
+Work Link: https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #css #webdevelopment 
 
 Day 04: Designed Blog Article Page
