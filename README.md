@@ -5,6 +5,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 #100daysofcode #bootstrap #webdevelopment 
 
+Day 06: Bootstrap Navbar & Grid System
+25th October 2K20, 11:12 PM
+
+Learnings:
+1. Bootstrap Navbar - navbar, navbar-dark, navbar-expand, navbar-brand, navbar-toggler, collapse, navbar-nav, nav-item, nav-link
+2. Grid System - different sizes / break points - col-lg-*, col-md-*, col-sm-*, col-*, offset-*
+
+Thoughts:
+Deep dive into bootstrap navbar & its different classes. Took me a lil. while to understand the use-case of various classes by playing with some of them including navbar-nav, navbar-collapse, navbar-toggler, etc. Also worked with basics of grid system & how to make page responsive with different screen sizes using different classes. Next looking forward to implement all this knowledge of bootstrap and explore more.
+
+Work Link: 
+https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
+#100daysofcode #bootstrap #webdevelopment 
+
 Day 05: Basics of Bootstrap
 24th October 2K20, 08:29 PM
 
