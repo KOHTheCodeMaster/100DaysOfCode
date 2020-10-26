@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #html #freecodecamp 
+
+Day 07: freecodecamp.org - Basic html and html5
+26th October 2K20, 11:11 PM
+
+Learnings: Basic html and html5
+
+Thoughts:
+Took a day off from bootstrap and explored FreeCodeCamp.org website. It is a wonderful learning resource for web development. One thing about it that intrigued me is its interactive sessions for every learning, there is always a hands-on practice exercise which enhance the level of understanding and promotes "learning by doing" step-by-step.
+Completed 'Basic HTML and HTML5' section of responsive-web-design at freecodecamp.org
+
+Work Link:
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #bootstrap #webdevelopment 
 
 Day 06: Bootstrap Navbar & Grid System
