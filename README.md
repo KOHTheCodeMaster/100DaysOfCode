@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+#100daysofcode #bootstrap #webdevelopment 
+
+Day 08: Updated Image Gallery using Bootstrap
+27th October 2K20, 09:44 PM
+
+Learnings: jumbotron, navbar, responsive layout for different screen sizes
+
+Thoughts:
+Applied the current knowledge of bootstrap to update previously built image gallery. Added navbar and jumbotron. Made it responsive for different screen sizes with just a few lines of code using powerful classes of bootstrap.
+
+Work Link:
+
+https://github.com/kohthecodemaster/webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #html #freecodecamp 
 
 Day 07: freecodecamp.org - Basic html and html5
