@@ -5,6 +5,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 #100daysofcode #bootstrap #webdevelopment 
 
+Day 09: Landing page of calm.com
+28th October 2K20, 10:48 PM
+
+Learnings: opacity, filter, brightness,  linear-gradient, container, hover, position
+
+Thoughts:
+Took an attempt to clone the landing page of calm.com
+using CSS & Bootstrap. Feels good to see myself making progress little by little.
+
+Work Link: 
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+----------------------------------------------------------------------------------------------------
+
+#100daysofcode #bootstrap #webdevelopment 
+
 Day 08: Updated Image Gallery using Bootstrap
 27th October 2K20, 09:44 PM
 
@@ -14,7 +30,6 @@ Thoughts:
 Applied the current knowledge of bootstrap to update previously built image gallery. Added navbar and jumbotron. Made it responsive for different screen sizes with just a few lines of code using powerful classes of bootstrap.
 
 Work Link:
-
 https://github.com/kohthecodemaster/webfundamentals
 
 ----------------------------------------------------------------------------------------------------
