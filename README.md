@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 10: Bootstrap documentation
+29th October 2K20, 09:57 PM
+
+Learnings: block-quote, text-*, blockquote-footer, cite
+
+Thoughts:
+Visited bootstrap documentation page for more insights. History, new updates, differences between v3 and v4. Practiced some of the newly learnt tags and classes including text-*, blockquote, and cite.
+
+Work Link: 
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #bootstrap #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 #100daysofcode #bootstrap #webdevelopment 
 
 Day 09: Landing page of calm.com
