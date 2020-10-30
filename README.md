@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 11: Bootstrap Cards
+30th October 2K20, 10:42 PM
+
+Learnings: cards, card-img, card-body, card-title, card-text, utility classes including border, margin and padding
+
+Thoughts:
+Practiced using cards and utility classes of bootstrap including border, margin and padding with different breakpoints. It provides an easy to use utility classes which would otherwise take long lines of code in CSS.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #bootstrap4 #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 10: Bootstrap documentation
 29th October 2K20, 09:57 PM
 
