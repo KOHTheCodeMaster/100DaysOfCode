@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 12: Flexbox
+31st October 2K20, 11:00 PM
+
+Learnings: flexbox, justify-content-*, align-items-*, main axis, cross axis, flex-direction, flex-row, flex-column, align-self-*
+
+Thoughts:
+Took a look at flexbox. It was quite a lot of classes. Understood the different axis and when to use which class to justify and align items accordingly. It makes the box model much more easier and efficient.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #flexbox #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 11: Bootstrap Cards
 30th October 2K20, 10:42 PM
 
