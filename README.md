@@ -3,6 +3,20 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 13: Intro. to JS
+1st November 2K20, 09:18 PM
+
+Learnings: 5 primitive data types (number, string, boolean, null, undefined), prompt, alert, log
+
+Thoughts:
+Completed the bootstrap chapter and moved on to the next chapter Intro. to JS. Already excited to work at the back-end side using JS and its libraries and frameworks like React and NodeJS. Understood the basics of JS including its syntax and how to include an external JS file. Within a couple of days I'll get more familiar and comfortable with it and start making some mini-projects.
+
+Work Link: https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #javascript #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 12: Flexbox
 31st October 2K20, 11:00 PM
 
