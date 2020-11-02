@@ -3,6 +3,20 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 14: JS Codeflow
+2nd November 2K20, 10:01 PM
+
+Learnings: Boolean logic and exceptional cases, == vs === operators, conditional blocks if-else-if
+
+Thoughts:
+Deep understanding of the boolean logic. Practiced different combinations of boolean along with == and === operators. Lots of exceptional cases for boolean values which at first seems to be true but are considered as false in javascript and vice versa.
+
+Work Link: https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #javascript #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 13: Intro. to JS
 1st November 2K20, 09:18 PM
 
