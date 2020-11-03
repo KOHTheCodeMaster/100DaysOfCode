@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 15: Loops, Functions & Scope
+3rd November 2K20, 11:04 PM
+
+Learnings: for and while loops, functions and arguments, local and global scopes
+
+Thoughts:
+Practiced basic loops and functions using arguments. Understood the difference between local and global scopes of the variables. One thing that I found quite different from other programming languages is that in case of insufficient or missing arguments in functions, it doesn't crashes and doesn't throws any exceptions but rather implicitly handles it by initializing such variables as undefined.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #javascript #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 14: JS Codeflow
 2nd November 2K20, 10:01 PM
 
