@@ -3,6 +3,20 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 16: JS Arrays
+4th November 2K20, 10:51 PM
+
+Learnings: javascript array functions including push, pop, shift, unshift, indexOf, slice. Array iteration using forEach method.
+
+Thoughts:
+Worked with fundamental and one of the most basic data structure i.e. Arrays. Its mostly similar to other programming languages like indexOf method. Slice method is used for splitting and segmentation and also forEach is a method of the array in javascript unlike the language construct in Java.
+
+Work Link: https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcodechallenge #javascript #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 15: Loops, Functions & Scope
 3rd November 2K20, 11:04 PM
 
