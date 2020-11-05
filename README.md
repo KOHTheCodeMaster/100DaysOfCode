@@ -3,6 +3,26 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 17: JS Objects
+5th November 2K20, 09:44 PM
+
+Learnings:
+1. JS object, function as part of object i.e. method 
+2. Two ways of accessing keys of object i.e. obj.name & obj["name"] 
+3. Using variable to access key of an object
+4. this keyword
+
+Thoughts:
+JS objects and functions as part of objects i.e. methods. Understood the difference between arrays and objects as well as using the objects with arrays and vice versa according to the scenario. It is similar to the dictionary or map in other programming languages but it allows 2 ways to access its keys i.e. via dot as well as [ ] operators. Also worked with the 'this' keyword to use the properties/fields of the object inside the methods of the object itself.
+
+Work Link:
+
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #javascript #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 16: JS Arrays
 4th November 2K20, 10:51 PM
 
