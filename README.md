@@ -3,6 +3,26 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 18: Document Object Model
+6th November 2K20, 10:24 PM
+
+Learnings: 
+1. document - the root element of the DOM
+2. 5 ways to select elements (id, class, tag, querySelector, querySelectorAll)
+3. Node list of elements similar to arrays
+4. Manipulate DOM for blinking effect
+5. setInterval method for timely iterations
+
+Thoughts:
+DOM - Document Object Model. Worked with 5 ways of selecting the elements using document methods including id, class, tag, querySelector & querySelectorAll. Difference and similarities between node list and arrays. The querySelectorAll method of document returns node list of elements rather than an array. Using setInterval method to change the text colod and background color of elements in timely manner which appears to be a blinking effect.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #javascript #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 17: JS Objects
 5th November 2K20, 09:44 PM
 
