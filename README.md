@@ -3,6 +3,27 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 19: Advanced DOM Manipulation
+7th November 2K20, 10:24 PM
+
+Learnings:
+1. Add, remove & toggle classList
+2. textContent & innerHTML
+3. getAttribute & setAttribute
+4. Adding event listeners on elements
+
+Thoughts:
+Dived deeper into DOM for advanced manipulation. Generally its considered good practice to add or remove css classes to the elements rather than explicitly specifying the styles with javascript code. Understood the difference between textContent & innerHTML as well as the use of get & setAttribute methods.
+
+Event listeners makes the webpage interactive and simply adds new flavor. Used all the knowledge gained so far about DOM to build a basic 'Scorekeeper' application.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #dom #javascript #webfundamentals
+
+----------------------------------------------------------------------------------------------------
+
 Day 18: Document Object Model
 6th November 2K20, 10:24 PM
 
