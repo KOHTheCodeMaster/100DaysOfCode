@@ -3,6 +3,26 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 20: Intro to jQuery
+8th November 2K20, 10:42 PM
+
+Learnings:
+1. Select elements using $("cssQuerySelector")
+2. Add, remove & toggle classes using jQuery methods
+3. Other methods similar to vanilla js including text, html, attr
+
+Thoughts:
+Introduction to jQuery. Understood the role of jQuery. Anything that can be done with jQuery can be done without jQuery as well but its about ease of code and clarity. Where it takes long lines of code for particular task, jQuery has inbuilt method/way to do that with just a few lines of code & is more robust.
+
+There's actually a website "http://youmightnotneedjquery.com" which illustrates examples of replicating things done with jQuery using plain js & supports why not to choose jQuery. But its considered worth knowing how to write code with / without jQuery.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #jquery #webdevelopement 
+
+----------------------------------------------------------------------------------------------------
+
 Day 19: Advanced DOM Manipulation
 7th November 2K20, 10:24 PM
 
