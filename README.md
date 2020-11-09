@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 21: FreeCodeCamp.org - Basic CSS
+9th November 2K20, 10:24 PM
+
+Learnings: revised the basics of CSS @ freecodecamp.org
+
+Thoughts:
+Practiced the Basics CSS unit at FreeCodeCamp.org
+Revised several CSS rules & concepts including fonts, size, border, different selectors & their priority, hex & rgb color model & more.
+Next will begin mini project of color game which utilizes both designing using CSS & Bootstrap as well as DOM manipulation using javascipt & jQuery.
+
+Work Link:
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
+#100daysofcode #freecodecamp #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 20: Intro to jQuery
 8th November 2K20, 10:42 PM
 
