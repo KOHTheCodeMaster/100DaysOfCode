@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 22: Guess The Color - Mini Project
+10th November 2K20, 10:30 PM
+
+Learnings: Practice & Implementation by building mini-project
+
+Thoughts:
+Designed the game page using HTML, CSS & Bootstrap. Implementing the knowledge gained so far by building a simple color guessing game. It will generate random colors using the RGB color model and the player has to guess which of the color tiles represents the given RGB color.
+Next will add JS for DOM manipulation.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/Guess-The-Color
+
+#100daysofcode #miniproject #html #css #boostrap #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 21: FreeCodeCamp.org - Basic CSS
 9th November 2K20, 10:24 PM
 
