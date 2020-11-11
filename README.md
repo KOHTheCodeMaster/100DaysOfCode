@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 23: Guess The Color
+11th November 2K20, 09:31 PM
+
+Learnings: Practice & Implementation by building mini-project
+
+Thoughts:
+Finished the logical part of the game as well. Added JS & jQuery for DOM manipulation. Handled all the event listeners for all the buttons and color tiles of the game grid. The game is now in stable condition & working smoothly. Although it ain't something that big of an achievement, but I still counts it as a little milestone.
+
+Cheers to many more milestones coming in the near future.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/Guess-The-Color
+
+#100daysofcode #javascript #jquery #miniproject #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 22: Guess The Color - Mini Project
 10th November 2K20, 10:30 PM
 
