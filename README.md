@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 24: jQuery Events
+12th November 2K20, 09:02 PM
+
+Learnings: on, click, key events including keypress, keydown, keyup, effects including fade & slide.
+
+Thoughts:
+Advanced jQuery events for listeners. Different key events to detect keystrokes pressed by the user. General 'on' method for all the listeners along with the callback method.
+Animation effects including fade in/out & slide in/out.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #jquery #javascript #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 23: Guess The Color
 11th November 2K20, 09:31 PM
 
