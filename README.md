@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 25: Simple To-Do List
+13th November 2K20, 10:49 PM
+
+Learnings: Practice & Implementation by building mini-project
+
+Thoughts:
+Started 2nd mini-project 'Simple To-Do List'. Its going to be complete polished application including both the designing as well as logical parts. Half part is done i.e. structure using HTML & logics as well as events using jQuery & javascript. Remaining half is the designing and the responsiveness of the application using CSS & Bootstrap.
+
+Work Link:
+
+https://github.com/KOHTheCodeMaster/SimpleTodoList
+
+#100daysofcode #miniproject #todolist #html #javascript #jquery #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 24: jQuery Events
 12th November 2K20, 09:02 PM
 
