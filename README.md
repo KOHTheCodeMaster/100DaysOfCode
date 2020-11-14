@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 26: Simple To-Do List Continued
+14th Nov. 2K20, 11:52 PM
+
+Learnings: Practice & Implementation by building mini-project
+
+Thoughts:
+Firstly whoever is reading this, wish you a very Happy Diwali.
+For once there was this thought whether should I take a break today on this occasion & spend more time with family, enjoying the festive season. But I just couldn't bear the thought of breaking the streak & anyhow had to commit & push the code to the GitHub.
+
+Continued with the design of SimpleTodoList mini-project using CSS. Encountered several new elements including hover effect with transition & font awesome icons (library). Its 90% completed just some polishing needs to be done.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/SimpleTodoList
+
+#100daysofcode #miniproject #todolist #css #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 25: Simple To-Do List
 13th November 2K20, 10:49 PM
 
@@ -12,7 +30,6 @@ Thoughts:
 Started 2nd mini-project 'Simple To-Do List'. Its going to be complete polished application including both the designing as well as logical parts. Half part is done i.e. structure using HTML & logics as well as events using jQuery & javascript. Remaining half is the designing and the responsiveness of the application using CSS & Bootstrap.
 
 Work Link:
-
 https://github.com/KOHTheCodeMaster/SimpleTodoList
 
 #100daysofcode #miniproject #todolist #html #javascript #jquery #webdevelopment 
