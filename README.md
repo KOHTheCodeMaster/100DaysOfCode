@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 27: Finished SimpleTodoList Mini Project
+15th November 2K20, 11:25 PM
+
+Learnings: Practice & Implementation by building mini project
+
+Thoughts:
+Finished polishing the Simple Todo List. Now its all stable & ready to use. Although it could be updated further by adding many more features including delete all items, pin particular items & so on. But for now I think its sufficient enough or else I won't be able to proceed further.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/SimpleTodoList
+
+#100daysofcode #miniproject #todolist #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 26: Simple To-Do List Continued
 14th Nov. 2K20, 11:52 PM
 
