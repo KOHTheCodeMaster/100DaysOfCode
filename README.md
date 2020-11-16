@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 28: Basics Of DBMS
+16th Nov. 2K20, 10:30 PM
+
+Learning: DBMS Fundamentals, Relational Database, SQL Basics including DDL, DML, TCL, DCL
+
+Thoughts:
+Started off with DataBase Management System. Before moving towards the back-end I intend to get my hands over the fundamentals of Database including both the Relational as well as No-SQL Database.
+Understood the basic CRUD operation in Oracle Relational DB using Insert, Select, Update, Delete commands.
+
+Work Link:
+https://www.oracletutorial.com/getting-started/
+
+#100daysofcode #dbms #oracledatabase 
+
+----------------------------------------------------------------------------------------------------
+
 Day 27: Finished SimpleTodoList Mini Project
 15th November 2K20, 11:25 PM
 
