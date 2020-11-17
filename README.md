@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 29: Oracle DBMS - Joins
+17th November 2K20, 10:30 PM
+
+Learnings: Group by and having clause, Joins including Inner, self, left, right and full outer join
+
+Thoughts:
+In-depth understanding of fetching records from multiple tables using joins including inner, self as well as outer joins.
+
+Practiced with aggregate functions using group by and having clause including sum, count, min, max & avg.
+
+Work Link:
+https://www.oracletutorial.com/oracle-basics/oracle-joins/
+
+#100daysofcode #oracle #oracledb #dbms #sqljoins 
+
+----------------------------------------------------------------------------------------------------
+
 Day 28: Basics Of DBMS
 16th Nov. 2K20, 10:30 PM
 
