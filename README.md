@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 30: Oracle DB Miscellaneous Functions
+18th Nov. 2K20, 4:58 PM
+
+Learnings: Miscellaneous functions involving string as well as date & timestamp
+
+Thoughts:
+Practiced several different miscellaneous functions of string including upper, lower, lapd, ltrim, length.
+Date functions including to_char, sysdate, add_months, extract and more.
+
+Work Link:
+https://www.oracletutorial.com/oracle-date-functions/
+
+#100daysofcode #oracledb #dbms 
+
+----------------------------------------------------------------------------------------------------
+
 Day 29: Oracle DBMS - Joins
 17th November 2K20, 10:30 PM
 
