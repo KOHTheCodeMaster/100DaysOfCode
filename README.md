@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 31: Backend Basics
+19th Nov. 2K20, 06:20 PM
+
+Learnings: http request & response, http methods using postman, backend server workflow
+
+Thoughts:
+Brief introduction to the backend. HTTP request & response using Postman API. Some of the basic methods of http request including get, post, put & delete.
+Understood the backend workflow using node js.
+
+Work Link:
+https://learning.postman.com/docs/getting-started/introduction/
+
+#100daysofcode #backend #backendwebdevelopment #nodejs #http #postmanapi 
+
+----------------------------------------------------------------------------------------------------
+
 Day 30: Oracle DB Miscellaneous Functions
 18th Nov. 2K20, 4:58 PM
 
