@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 32: Setup Node JS Environment
+20th Nov. 2K20, 08:27 PM
+
+Learnings: basic commands for cli, setting up node JS environment, running JS using node server
+
+Thoughts:
+Getting started with the Node JS. Installation & setting up the environment. Basic commands for command line interface (cli). Running JS files independently using node rather than depending upon the browser to run the JS along with the html.
+
+Work Link:
+https://nodejs.org/en/
+
+#100daysofcode #nodejs #backend #backendwebdevelopment #
+
+----------------------------------------------------------------------------------------------------
+
 Day 31: Backend Basics
 19th Nov. 2K20, 06:20 PM
 
