@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 33: NPM Package Manager
+21st Nov. 2K20, 09:52 PM
+
+Learnings: node packages, npm package manager, installing packages using npm
+
+Thoughts:
+Brief overview of Node.js package ecosystem. Using NPM package manager to install the packages / dependencies. Practiced with the simple dependencies including cat-me & faker package.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #npm #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 32: Setup Node JS Environment
 20th Nov. 2K20, 08:27 PM
 
