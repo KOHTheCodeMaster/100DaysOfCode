@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 34: Express Framework
+22nd Nov. 2K20, 09:48 PM
+
+Learnings: framework vs library, express framework, npm init, routes & route params
+
+Thoughts:
+Understanding the difference between framework & library. Getting started with Express Framework. Defining routes as well as route patterns.
+
+Defining metadata including dependencies in packages.json file. Using npm init command to create the packages.json file along with --save flag to automatically add the dependency in the json file.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #npm #expressjs #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 33: NPM Package Manager
 21st Nov. 2K20, 09:52 PM
 
