@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 35: EJS Templates
+23rd Nov. 2K20, 10:29 PM
+
+Learnings: EJS Templates, rendering html from ejs file
+
+Thoughts:
+Understood the dynamic nature of EJS templates and how to use them for rendering HTML content rather than sending plain text response.
+Using EJS templates for passing parameters, conditionals & looping to make the webpage dynamic rather than hardcoded as static and same for all.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #expressjs #backend #backenddevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 34: Express Framework
 22nd Nov. 2K20, 09:48 PM
 
