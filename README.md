@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 36: EJS Serving Custom Assets
+24th Nov. 2K20, 09:26 PM
+
+Learnings: partials templates supporting DRY code, serving custom assets including CSS stylesheets
+
+Thoughts:
+Using partials EJS templates to support DRY code.
+Including partials/header as well as partials/footer templates to avoid redundant HTML boiler plate code in each EJS template.
+
+Defining assets directory using express static method which is going to be used to place all the CSS stylesheets as well as script files.
+
+Work Link: 
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #expressjs #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 35: EJS Templates
 23rd Nov. 2K20, 10:29 PM
 
