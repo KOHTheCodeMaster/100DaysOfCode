@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 37: Making Post Requests
+25th Nov. 2K20, 09:06 PM
+
+Learnings: using express to make post request, html form action and post method, body-parser library
+
+Thoughts:
+Using Express JS for different routes for post request. HTML form for making post requests.
+Using body-parser library to parse http request body into JS object. Postman API to understand the http post request.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #expressjs #backend #backendwebdevelopment #webdevelopment #postmanapi 
+
+----------------------------------------------------------------------------------------------------
+
 Day 36: EJS Serving Custom Assets
 24th Nov. 2K20, 09:26 PM
 
