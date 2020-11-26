@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 38: Intro To API
+26th Nov. 2K20, 10:07 PM
+
+Learnings: API overview, request library, JSON & XML response types, invoke public API call using JS
+
+Thoughts:
+Introduction to API. Brief overview about the response received by invoking an API call. JSON & XML mostly used type formats for API response.
+Invoked public API "official-joke-api.appspot.com/random_joke" using request library.
+
+Work Link: 
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #api #json #request #http #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 37: Making Post Requests
 25th Nov. 2K20, 09:06 PM
 
