@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 39: Simple Movie API
+27th Nov. 2K20, 09:24 PM
+
+Learnings: public API using keys, omdb api, search & parse JSON
+
+Thoughts:
+Simple movie search express application using the OMDB Public API. 
+Making requests using API key as a parameter & fetching JSON response.
+Parsing the response from JSON string to JS object and then displaying relevant information to the user.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #nodejs #expressjs #api #json #omdbapi #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 38: Intro To API
 26th Nov. 2K20, 10:07 PM
 
