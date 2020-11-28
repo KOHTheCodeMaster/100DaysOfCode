@@ -3,6 +3,27 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 40: The Glamp Camp
+28th Nov. 2K20, 08:38 PM
+
+Learnings: Practice & Implementation by building a project.
+
+Thoughts:
+New project - The Glamp Camp.
+This is going to be a complete packaged project including front-end using HTML, CSS, Bootstrap and back-end using Node JS, Express JS, jQuery and MongoDB.
+
+Finished setting up the project
+Project directory structure
+Installing dependencies
+Initial routes
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #project #expressjs #nodejs #backend #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 39: Simple Movie API
 27th Nov. 2K20, 09:24 PM
 
