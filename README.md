@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 41: Styling Campgrounds
+29th Nov. 2K20, 10:03 PM
+
+Learnings: Practice & implementation by building a project.
+
+Thoughts:
+Styling & designing the layout of campgrounds.
+Add new campground via the POST route.
+Added Bootstrap to make it a responsive web application.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #project #nodejs #expressjs #bootstrap #postman #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 40: The Glamp Camp
 28th Nov. 2K20, 08:38 PM
 
