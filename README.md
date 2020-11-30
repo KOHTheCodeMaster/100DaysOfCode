@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 42: Added Navbar - The Glamp Camp
+30th November 2K20, 07:37 PM
+
+Learnings: Practice & Implementation by building a project.
+
+Thoughts:
+Added navbar at the top of each page of The Glamp Camp.
+Brief overview of Relational & NoSQL Database.
+Decided to proceed with MongoDB as the database in this application.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #project #nodejs #expressjs #bootstrap #navbar #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 41: Styling Campgrounds
 29th Nov. 2K20, 10:03 PM
 
