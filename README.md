@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 43: Intro. To MongoDB
+1st December 2K20, 09:15 PM
+
+Learnings: MongoDB, crud operations
+
+Thoughts:
+Introduction to MongoDB No-SQL Database.
+Installation & setup along with basic CRUD operations using insert, find, update & remove commands.
+Practice of crud operations over Mongo shell.
+
+Work Link:
+https://www.mongodb.com/what-is-mongodb
+
+#100daysofcode #mongodb #database #nosql #crud 
+
+----------------------------------------------------------------------------------------------------
+
 Day 42: Added Navbar - The Glamp Camp
 30th November 2K20, 07:37 PM
 
