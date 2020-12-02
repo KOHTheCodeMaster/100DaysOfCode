@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 44: Mongoose
+2nd Dec. 2K20, 09:06 PM
+
+Learnings: Mongoose, mongoDB using JS
+
+Thoughts:
+Introduction to Mongoose.
+Implementing & executing MongoDB commands via JavaScript using Mongoose.
+Mongoose could be considered as a library for mongoDB similar to jQuery library for JS.
+
+Work Link:
+https://mongoosejs.com/docs
+
+#100daysofcode #mongodb #mongoose #database #nosql #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 43: Intro. To MongoDB
 1st December 2K20, 09:15 PM
 
