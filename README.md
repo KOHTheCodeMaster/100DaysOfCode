@@ -3,6 +3,27 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 45: Mongoose Continued
+3rd Dec. 2K20, 11:19 PM
+
+Learnings: mongoose demonstration & implementation
+
+Thoughts:
+Continued exploring mongoose docs for better grasp & in-depth understanding.
+
+Practice with mongoose including the following:
+1. establishing connection to database
+2. initialize schema & model
+3. creating document & adding to database
+4. finding all the existing documents inside the collection
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #mongoose #mongodb #database #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 44: Mongoose
 2nd Dec. 2K20, 09:06 PM
 
