@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 46: Data Persistence via Mongoose - TheGlampCamp
+4th Dec. 2K20, 08:58 PM
+
+Learnings: Practice & implementation by building a project
+
+Thoughts:
+Added Data Persistence layer to TheGlampCamp via mongoose. Using mongoose in express JS application for establishing connection with MongoDB & other configurations.
+Creating new campground & saving directly to the MongoDB database rather than temporary array for storing & retrieval of data.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #mongoose #mongodb #project #database #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 45: Mongoose Continued
 3rd Dec. 2K20, 11:19 PM
 
