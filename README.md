@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 47: Regular Expressions
+5th Dec. 2K20, 09:20 PM
+
+Learnings: Basics of Regular Expressions
+
+Thoughts:
+Introduction to Regular Expressions (regex)
+Practiced several regex patterns including Wild cards, Character classes, Range and more.
+
+Work Link:
+https://www.sitepoint.com/learn-regex
+
+#100daysofcode #regex #regularexpressions 
+
+----------------------------------------------------------------------------------------------------
+
 Day 46: Data Persistence via Mongoose - TheGlampCamp
 4th Dec. 2K20, 08:58 PM
 
