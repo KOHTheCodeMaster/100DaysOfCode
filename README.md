@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 48: Regex Continued
+6th Dec. 2K20, 11:36 PM
+
+Learnings: Regex interactive lessons
+
+Thoughts:
+Deep dive into regex.
+Understanding the use-cases, scenarios when & how different regular expressions could be used to filter out the string or acquire the desired one.
+Powerful tool for string manipulation.
+
+Work Link:
+https://regexone.com/lesson/capturing_groups
+
+#100daysofcode #regex #regularexpressions #practice #interactivelearning 
+
+----------------------------------------------------------------------------------------------------
+
 Day 47: Regular Expressions
 5th Dec. 2K20, 09:20 PM
 
