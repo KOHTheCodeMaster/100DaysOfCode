@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 49: Show Individual Campground - TGC
+7th Dec. 2K20, 08:49 PM
+
+Learnings: Practice & Implementation by building a project - TheGlampCamp
+
+Thoughts:
+Brief overview about principles of Restful routes.
+Route for showing individual campground.
+Refactored campgrounds & added description
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #mongoose #mongodb #restapi #routes #nodejs #expressjs #backend #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 48: Regex Continued
 6th Dec. 2K20, 11:36 PM
 
