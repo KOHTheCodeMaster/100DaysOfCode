@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 50: Restful Blog App
+8th Dec. 2K20, 09:41 PM
+
+Learnings: Restful API, REST routes
+
+Thoughts:
+Brief overview about Restful API & REST routes.
+Conventions & best practices for keeping routes in such a way that it follows restful architecture.
+Practice REST routing by starting a new mini project - 'Restful Blog App'
+
+Work Link:
+https://github.com/KOHTheCodeMaster/RestfulBlogApp
+
+#100daysofcode #restapi #restfulapi #restfularchitecture #routes #webdevelopment #miniproject  
+
+----------------------------------------------------------------------------------------------------
+
 Day 49: Show Individual Campground - TGC
 7th Dec. 2K20, 08:49 PM
 
