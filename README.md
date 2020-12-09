@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 51: NEW & SHOW Routes - Restful Blog App
+9th Dec. 2K20, 10:12 PM
+
+Learnings: Practice & Implementation by building a mini project - Restful Blog App
+
+Thoughts:
+Implementation of NEW route /blogs/new for displaying form of new blog which is supported by CREATE route /blogs/ with POST method for creating new blog and saving it into DB.
+Also, SHOW route /blogs/:id to display details of particular blog entry.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/RestfulBlogApp
+
+#100daysofcode #miniproject #restfulapi #restapi #routes #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 50: Restful Blog App
 8th Dec. 2K20, 09:41 PM
 
