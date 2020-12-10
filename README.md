@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 52: Finished Restful Blog App
+10th Dec. 2K20, 11:16 PM
+
+Learnings: Practice & Implementation by building a mini-project - 'Restful Blog App'
+
+Thoughts:
+1. Edit & Update blog post via app.put route.
+2. Destroy & delete blog post via app.delete route.
+3. Final touch-up & styling using Semantic-UI.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/RestfulBlogApp
+
+#100daysofcode #miniproject #restfulapi #restful #restapi #semanticui #nodejs #expressjs #mongoose #mongodb 
+
+----------------------------------------------------------------------------------------------------
+
 Day 51: NEW & SHOW Routes - Restful Blog App
 9th Dec. 2K20, 10:12 PM
 
