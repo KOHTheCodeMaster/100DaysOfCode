@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 53: Semantic-UI
+11th Dec. 2K20, 09:46 PM
+
+Learnings: Semantic-UI
+
+Thoughts:
+Introduction to Semantic-UI.
+Brief overview of official documentation of Semantic-UI.
+
+Work Link:
+https://semantic-ui.com/introduction/getting-started.html
+
+#100daysofcode #semanticui #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 52: Finished Restful Blog App
 10th Dec. 2K20, 11:16 PM
 
