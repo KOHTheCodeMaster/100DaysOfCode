@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 54: Data Associations with MongoDB
+12th Dec. 2K20, 10:18 PM
+
+Learnings: Data associations & module exports
+
+Thoughts:
+1. Data associations in MongoDB including one-one, one-many, many-many.
+2. Module exports in Node JS for better modularity.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #mongodb #mongoose #nodejs #backend #backenddevelopment #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 53: Semantic-UI
 11th Dec. 2K20, 09:46 PM
 
