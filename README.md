@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 55: Refactor Modules & Comments Schema - TGC
+13th Dec. 2K20, 10:14 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+1. Refactoring the schema using modules exports to remove the clutter
+2. Added Comments Schema
+3. Seeding DB using mock data.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #mongoose #mongodb #nosql #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 54: Data Associations with MongoDB
 12th Dec. 2K20, 10:18 PM
 
