@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 56: Add New Comments - TGC
+14th Dec. 2K20, 09:52 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+Refactored views directory & all the associated ejs files.
+Added the feature to add new comments to the campgrounds.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #backend #backendwebdevelopment #routes #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 55: Refactor Modules & Comments Schema - TGC
 13th Dec. 2K20, 10:14 PM
 
