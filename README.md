@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 57: Importance Of Logging
+15th Dec. 2K20, 09:11 PM
+
+Learnings: logging basics, message levels, grouping, timing, error boundaries
+
+Thoughts:
+Brief insights of logging & its importance to ease up debugging. Using appropriate message levels while logging along with grouping to avoid scrolling & finding around the logs.
+
+Handling errors & exceptions gracefully using Try-Catch-Finally to prevent any error breaking the code flow leading to program crash.
+
+Work Link:
+https://stackify.com/javascript-logging-basic-tips/
+
+#100daysofcode #logging #javascript #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 56: Add New Comments - TGC
 14th Dec. 2K20, 09:52 PM
 
