@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 58: Styling Show Campgrounds - TGC
+16th Dec. 2K20, 09:24 PM
+
+Learnings: Practice & Implementations by building a project - 'The Glamp Camp'
+
+Thoughts:
+Styling show route of campgrounds using CSS & Bootstrap.
+Worked with Bootstrap grid system along with several utility classes to design different components of campground including image, content & all the comments associated with it.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #bootstrap #css #frontendwebdevelopment #frontend #tgc #project #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 57: Importance Of Logging
 15th Dec. 2K20, 09:11 PM
 
