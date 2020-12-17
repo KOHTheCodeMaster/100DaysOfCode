@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 59: Intro. to Authentication
+17th Dec. 2K20, 10:47 PM
+
+Learnings: passport middleware, passport local with mongoose
+
+Thoughts:
+Introduction to authentication. Using the flexible & modular passport middleware of Node JS for authentication.
+Brief overview of using passport local with mongoose.
+
+Work Link:
+http://www.passportjs.org/
+
+#100daysofcode #nodejs #passport #authentication #mongoose #backendwebdevelopment #backend #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 58: Styling Show Campgrounds - TGC
 16th Dec. 2K20, 09:24 PM
 
