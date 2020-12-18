@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 60: User Registration - Simple-Auth-App
+18th Dec. 2K20, 11:01 PM
+
+Learnings: passport, passport-local, passport-local-mongoose, configure passport, register user
+
+Thoughts:
+Local authentication via username & password using passport middleware for Node JS.
+Configuration of passport using several modules including passport-local, passport-local-mongoose, express-session.
+
+Registration of user by persisting user model in DB including the username along with the hash & salt for the password rather than storing it as raw string.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #passportjs #nodejs #expressjs #authentication #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 59: Intro. to Authentication
 17th Dec. 2K20, 10:47 PM
 
