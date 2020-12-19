@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 61: Login & Logout - Simple-Auth-App
+19th Dec. 2K20, 09:13 PM
+
+Learnings: login user using passport authenticate, logout and middleware
+
+Thoughts:
+Finished with Simple-Auth-App.
+Login form & post route for authenticating the user using passport authenticate middleware. Logout the user with the help of passport to remove all the associated cookies & the session.
+
+Before proceeding to the home page after login/register, checking if the user is already authenticated using custom middleware method.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #authentication #passportjs #nodejs #expressjs #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 60: User Registration - Simple-Auth-App
 18th Dec. 2K20, 11:01 PM
 
