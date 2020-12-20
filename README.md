@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 62: Register User - TGC
+20th Dec. 2K20, 09:22 PM
+
+Learnings: Practice & Implementation by building a project - 'The Glamp Camp'
+
+Thoughts:
+Adding up authentication to TheGlampCamp project.
+Configuration using Passport JS including passport, passport-local & passport-local-mongoose libraries.
+Added User model as well as register routes enabling new user sign ups.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #project #authentication #nodejs #passportjs #expressjs #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 61: Login & Logout - Simple-Auth-App
 19th Dec. 2K20, 09:13 PM
 
