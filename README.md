@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 63: Login & Logout - TGC
+21st Dec. 2K20, 10:14 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+Added following features to The Glamp Camp project:
+1. Login routes & authenticate using passport library
+2. Logout currently logged in user & removing all of its associated cookies & session details.
+3. Tweaked Navbar to hide/show links according to the user login status.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #passportjs #authenticate #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 62: Register User - TGC
 20th Dec. 2K20, 09:22 PM
 
