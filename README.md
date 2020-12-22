@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 64: Refactor & Routes Management - TGC
+22nd Dec. 2K20, 11:38 PM
+
+Learnings: route management, modular approach, express router
+
+Thoughts:
+Refactoring 'The Glamp Camp' project by moving all the different routes to their respective module & importing required ones accordingly.
+
+Using Express router for DRY code and better shorten URL patterns for each routes.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #backend #backendwebdevelopment #project #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 63: Login & Logout - TGC
 21st Dec. 2K20, 10:14 PM
 
