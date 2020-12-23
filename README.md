@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 65: Practice With Postman
+23rd Dec. 2K20, 07:39 PM
+
+Learnings: Practice & Implementation by using postman
+
+Thoughts:
+Practice with request and response with different parameters & body for different routes of 'TheGlampCamp'.
+
+Using Postman for testing the routes and gain better insights of http requests and its different methods.
+
+Work Link:
+https://www.postman.com/
+
+#100daysofcode #project #testing #routes #http #postmanapi #postman #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 64: Refactor & Routes Management - TGC
 22nd Dec. 2K20, 11:38 PM
 
