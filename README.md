@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 66: Refactor Comments - TGC
+24th Dec. 2K20, 05:46 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+Refactored the comments for the campgrounds.
+Added user's id as reference of mongoose.Schema.ObjectId for each author.
+
+Updated Seeding of database according to the updated mapping of user as author in comments.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #project #nodejs #expressjs #tgc #mongoose #mongodb #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 65: Practice With Postman
 23rd Dec. 2K20, 07:39 PM
 
