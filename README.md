@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 67: Refactor Campgrounds - TGC
+25th Dec. 2K20, 08:18 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+Refactoring the campgrounds by ensuring only logged in users are allowed to create new campgrounds.
+Also, associated Author to each campground and display submitted by author's username at each campground's show page.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #mongoose #mongodb #backend #backendwebdevelopment #project #tgc #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 66: Refactor Comments - TGC
 24th Dec. 2K20, 05:46 PM
 
