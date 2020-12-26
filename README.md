@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 68: Back To Basics
+26th Dec. 2K20, 09:32 PM
+
+Learnings: JS iterator & generator
+
+Thoughts:
+Understanding the basic concepts of JS Iterator for iterating over the collections.
+
+Using generator which is defined as a method with function* syntax.  It provides next() method & yield keyword to pause & resume its state & control.
+
+Work Link:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+
+#100daysofcode #JavaScript #basicjs #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 67: Refactor Campgrounds - TGC
 25th Dec. 2K20, 08:18 PM
 
