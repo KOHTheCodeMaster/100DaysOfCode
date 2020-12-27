@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 69: Update & Delete Campgrounds - TGC
+27th Dec. 2K20, 10:25 PM
+
+Learnings: Practice & Implementation by building a project - 'TheGlampCamp'
+
+Thoughts:
+Added 2 new features to update as well as destroy any campground. 
+Edit form along with edit & delete routes using respective http methods put & delete via method-override library of Express JS.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #routes #crud #backend #backendwebdevelopment #mongoose #mongodb #project #tgc #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 68: Back To Basics
 26th Dec. 2K20, 09:32 PM
 
