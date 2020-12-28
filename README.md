@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 70: Authorization - TGC
+28th Dec. 2K20, 09:59 PM
+
+Learnings: Practice & Implementations by building a project - 'TheGlampCamp'
+
+Thoughts:
+Check user authorization before updating & deleting campgrounds.
+Added feature to update & delete comments along with the user authorization for the same.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/TheGlampCamp
+
+#100daysofcode #nodejs #expressjs #mongoose #mongodb #backend #backendwebdevelopment #authorization #project #tgc #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 69: Update & Delete Campgrounds - TGC
 27th Dec. 2K20, 10:25 PM
 
