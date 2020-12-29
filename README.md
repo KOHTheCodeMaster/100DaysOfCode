@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 71: Sign in with Google
+29th Dec. 2K20
+
+Learnings: Google sign in
+
+Thoughts:
+Brief overview about signing in with Google using Passport JS. Using Google OAuth for authenticating user rather than traditional email password sign in process.
+
+Work Link:
+https://dev.to/phyllis_yym/beginner-s-guide-to-google-oauth-with-passport-js-2gh4
+
+#100daysofcode #expressjs #nodejs #passportjs #googleoauth #oauth #authentication #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 70: Authorization - TGC
 28th Dec. 2K20, 09:59 PM
 
