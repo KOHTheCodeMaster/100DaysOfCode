@@ -3,8 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 72: Google OAuth Continued
+30th Dec. 2K20, 09:26 PM
+
+Learnings: Google OAuth
+
+Thoughts:
+Understanding in-depth with better insights of Google OAuth.
+Google sign in authentication using Passport JS.
+
+Work Link:
+http://www.passportjs.org/packages/passport-google-oauth/
+
+#100daysofcode #nodejs #expressjs #passportjs #authentication #googleoauth #oauth #backend #backendwebdevelopment #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 71: Sign in with Google
-29th Dec. 2K20
+29th Dec. 2K20, 10:45 PM
 
 Learnings: Google sign in
 
