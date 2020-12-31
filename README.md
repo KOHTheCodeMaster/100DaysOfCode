@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 73: Intro to TypeScript
+31st Dec. 2K20, 09:42 PM
+
+Learnings: TypeScript basics
+
+Thoughts:
+Introduction to TypeScript.
+Statically typed OOP based scripting language superset of JavaScript.
+Environment setup & basic syntax.
+
+Work Link:
+https://www.typescriptlang.org
+
+#100daysofcode #TypeScript #js #ts #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 72: Google OAuth Continued
 30th Dec. 2K20, 09:26 PM
 
