@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 74: TypeScript Handbook
+1st Jan. 2K21, 07:44 PM
+
+Learnings: TypeScript
+
+Thoughts:
+Gaining better grasp on TypeScript.
+Following through the official documentations & handbook of TypeScript.
+Basic types as well as Interface.
+
+Work Link:
+https://www.typescriptlang.org/docs/handbook/intro.html
+
+#100daysofcode #TypeScript #JavaScript #ts #js #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 73: Intro to TypeScript
 31st Dec. 2K20, 09:42 PM
 
