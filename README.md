@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 75: TypeScript Continued
+2nd January 2K20, 08:38 PM
+
+Learnings: data types practice, enums, arrays
+
+Thoughts:
+Hands-on over TypeScript basics.
+Practice using data types along with use of enums as well as arrays.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/WebFundamentals
+
+#100daysofcode #TypeScript #ts #js #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 74: TypeScript Handbook
 1st Jan. 2K21, 07:44 PM
 
