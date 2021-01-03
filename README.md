@@ -3,8 +3,25 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 76: TypeScript Continued
+3rd Jan. 2K21, 08:46 PM
+
+Learnings: TypeScript functions
+
+Thoughts:
+Defining functions with static types.
+Inferring the types for functions.
+Optional & Default arguments in functions.
+
+Work Link:
+https://www.typescriptlang.org/docs/handbook/functions.html
+
+#100daysofcode #TypeScript #js #ts #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 75: TypeScript Continued
-2nd January 2K20, 08:38 PM
+2nd January 2K21, 08:38 PM
 
 Learnings: data types practice, enums, arrays
 
