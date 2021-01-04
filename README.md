@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 77: Object Oriented Programming
+4th Jan. 2K21, 07:49 PM
+
+Learnings: OOPs concept using TypeScript
+
+Thoughts:
+Classes and objects using TypeScript.
+Understanding the pillars of Object Oriented Programming including Inheritance, Encapsulation, Polymorphism, Abstraction.
+
+Work Link:
+https://www.typescriptlang.org/docs/handbook/classes.html
+
+#100daysofcode #TypeScript #js #ts #oops #objectoriented #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 76: TypeScript Continued
 3rd Jan. 2K21, 08:46 PM
 
