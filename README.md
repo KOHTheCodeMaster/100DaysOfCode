@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 78: TypeScript Modules
+5th Jan. 2K20, 09:17 PM
+
+Learnings: modules in TypeScript
+
+Thoughts:
+Understanding the concept of Modularity.
+Exporting Modules using TypeScript.
+Improving reusability of the code by exporting the modules.
+
+Work Link:
+https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html
+
+#100daysofcode #TypeScript #js #ts #modularity #WebDevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 77: Object Oriented Programming
 4th Jan. 2K21, 07:49 PM
 
