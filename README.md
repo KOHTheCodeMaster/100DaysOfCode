@@ -3,8 +3,25 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 79: Optional Parameters - TypeScript
+6th Jan. 2K21, 08:01 PM
+
+Learnings: Arrow methods, Optional parameters in TypeScript
+
+Thoughts:
+Array methods including forEach, find, filter & map.
+Using Arrow methods as a concise way for replacing callback methods.
+Declaring optional parameters as well as default and rest parameters in method signature.
+
+Work Link:
+https://www.typescripttutorial.net/typescript-tutorial/typescript-optional-parameters/
+
+#100daysofcode #TypeScript #js #ts #WebDevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 78: TypeScript Modules
-5th Jan. 2K20, 09:17 PM
+5th Jan. 2K21, 09:17 PM
 
 Learnings: modules in TypeScript
 
