@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 80: TypeScript Generics
+7th Jan. 2K20, 06:44 PM
+
+Learnings: Generics using TypeScript
+
+Thoughts:
+Creating components of user defined custom types.
+Understand the reusability of code with the help of Generics using TypeScript.
+
+Work Link:
+https://www.typescriptlang.org/docs/handbook/generics.html
+
+#100daysofcode #TypeScript #js #ts #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 79: Optional Parameters - TypeScript
 6th Jan. 2K21, 08:01 PM
 
