@@ -3,8 +3,25 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 81: Intro. To Angular
+8th Jan. 2K21, 10:32 PM
+
+Learnings: Angular environment setup, components & architecture
+
+Thoughts:
+Getting started with Angular.
+Setting up the environment, installation of angular & running angular app via "ng serve".
+Brief overview about the components of Angular application.
+
+Work Link:
+https://angular.io/guide/architecture
+
+#100daysofcode #Angular #frontend #js #ts #WebDevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 80: TypeScript Generics
-7th Jan. 2K20, 06:44 PM
+7th Jan. 2K21, 06:44 PM
 
 Learnings: Generics using TypeScript
 
