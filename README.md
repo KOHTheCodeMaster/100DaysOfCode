@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 82: Angular Components
+9th Jan. 2K21, 11:43 PM
+
+Learnings: angular components
+
+Thoughts:
+Understanding the concept of components in angular.
+Creating new component & using it as custom html tag in main app component of angular application.
+
+Work Link:
+https://angular.io/api/core/Component
+
+#100daysofcode #Angular #Frontend #frontenddevelopment #WebDevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 81: Intro. To Angular
 8th Jan. 2K21, 10:32 PM
 
