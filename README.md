@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 83: Routing - Angular Framework
+10th Jan. 2K21, 11:52 PM
+
+Learnings: pipes, service, routing
+
+Thoughts:
+Deep dive into Angular Framework.
+Understanding the structure & different components including built-in pipes (number, percent, date) along with custom pipes.
+
+Defining custom services to handle the business logic & managing routes for declaring url path for each component.
+
+Work Link:
+https://angular.io/guide/router-tutorial
+
+#100daysofcode #Angular #ts #js #TypeScript #frontenddevelopment #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 82: Angular Components
 9th Jan. 2K21, 11:43 PM
 
