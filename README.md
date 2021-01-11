@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 84: Reactive Forms - Angular
+11th Jan. 2K21, 09:11 PM
+
+Learnings: data binding, Reactive forms
+
+Thoughts:
+Understanding the use of data binding to sync data between the view & component.
+
+Using reactive forms with form group & form controls for handling the inputs.
+
+Work Link:
+https://angular.io/guide/reactive-forms
+
+#100daysofcode #Angular #frontend #forms #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 83: Routing - Angular Framework
 10th Jan. 2K21, 11:52 PM
 
