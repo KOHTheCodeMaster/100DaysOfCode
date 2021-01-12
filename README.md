@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 85: Angular Built-in Directives
+12th Jan. 2K21, 07:12 PM
+
+Learnings: built-in attribute & structural directives in angular
+
+Thoughts:
+Built-in attribute directives including NgClass to add/remove CSS classes, NgStyle to add/remove HTML styles & NgModel to provide two-way data binding.
+
+Built-in structural directives to shape/reshape DOM's structure using ngIf, ngFor & ngSwitch.
+These are responsible for HTML layout.
+
+Work Link:
+https://angular.io/guide/built-in-directives
+
+#100daysofcode #Angular #ts #js #angulardirectives #frontend #frontenddevelopment #WebDevlopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 84: Reactive Forms - Angular
 11th Jan. 2K21, 09:11 PM
 
