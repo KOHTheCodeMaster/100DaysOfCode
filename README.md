@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 86: Dependency Injection in Angular
+13th Jan. 2K21, 07:33 PM
+
+Learnings: Depends Injection
+
+Thoughts:
+Understanding Dependency Injection design pattern to increase flexibility & modularity of the application.
+
+Angular framework allows Dependency Injection via instantiation (constructor).
+
+Work Link:
+https://angular.io/guide/dependency-injection
+
+#100daysofcode #Angular #frontend #ts #js #Webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 85: Angular Built-in Directives
 12th Jan. 2K21, 07:12 PM
 
