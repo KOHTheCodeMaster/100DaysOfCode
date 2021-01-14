@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 87: Routing in Angular
+14th Jan. 2K21, 07:25 PM
+
+Learnings: angular routing
+
+Thoughts:
+Using Angular routes in single-page application.
+Mapping different url paths to open corresponding components.
+
+Work Link:
+https://angular.io/guide/router-tutorial
+
+#100daysofcode #angular #routing #ts #js #Frontend #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 86: Dependency Injection in Angular
 13th Jan. 2K21, 07:33 PM
 
