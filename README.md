@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 88: Angular Material
+15th Jan. 2K21, 08:37 PM
+
+Learnings: Angular material design
+
+Thoughts:
+Getting brief overview about Material Design in Angular.
+Using featured components with Material Design including date picker, slide toggle, input/output & sliders.
+
+Work Link:
+https://material.angular.io/
+
+#100daysofcode #Angular #materialdesign #frontend #ts #js #Webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 87: Routing in Angular
 14th Jan. 2K21, 07:25 PM
 
