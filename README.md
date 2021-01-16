@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 89: Integration of Angular with NodeJS
+16th Jan. 2K21, 10:03 PM
+
+Learnings: integration of Angular with NodeJS
+
+Thoughts:
+After deep understanding of Angular Framework, it's time to integrate the front-end with the back-end.
+
+Brief overview about integration of the Angular Framework along with the NodeJS using REST APIs.
+
+Work Link:
+https://medium.com/@onejohi/node-angular-how-to-integrate-the-two-b49e7111b573
+
+#100daysofcode #Angular #js #frontend #backend #NodeJS #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 88: Angular Material
 15th Jan. 2K21, 08:37 PM
 
