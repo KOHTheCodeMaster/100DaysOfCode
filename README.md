@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 90: Git VCS
+17th Jan. 2K21, 07:57 PM
+
+Learnings: git version control system cli
+
+Thoughts:
+Before beginning with a new project I thought to take a brief overview about Git - Version Control System CLI.
+
+Basic commands dealing with branch, remote repository, push & pull and more.
+
+Work Link:
+https://git-scm.com/docs/gittutorial
+
+#100daysofcode #git #vcs #cli #projectmanagementtools 
+
+----------------------------------------------------------------------------------------------------
+
 Day 89: Integration of Angular with NodeJS
 16th Jan. 2K21, 10:03 PM
 
