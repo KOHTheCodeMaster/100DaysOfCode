@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 91: Git Advanced
+18th Jan. 2K21, 09:54 PM
+
+Learnings: git advanced concepts
+
+Thoughts:
+Brief overview about git advanced concepts.
+
+Understanding the difference between git merge & rebase along with other concepts including checkout, reset, revert, log and more.
+
+Work Link:
+https://www.atlassian.com/git/tutorials/advanced-overview
+
+#100daysofcode #git #gitadvanced #cli #vcs 
+
+----------------------------------------------------------------------------------------------------
+
 Day 90: Git VCS
 17th Jan. 2K21, 07:57 PM
 
