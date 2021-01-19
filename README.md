@@ -3,6 +3,33 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 92: Begin Keep-It Project
+19th Jan. 2K21, 09:27 PM
+
+Learnings: Practice & Implementation by building a project 'Keep-It'
+
+Thoughts:
+After completing all the frameworks & libraries starting with Bootstrap as CSS Library,
+MongoDB as Database,
+NodeJS & ExpressJS as back-end framework,
+Angular as front-end framework,
+
+With all of these, I've successfully completed the MEAN Stack.
+
+Its time to create a final project using the complete MEAN Stack in a single complete packaged full stack web application.
+For this, I've decided to clone the Google Keep application completely from the front-end to the back-end.
+
+Although its a big application with multitude of features, I'll try best of my efforts to make it as close as possible to the original application including most of the features & try to add additional features as well.
+
+Initialized Keep-It project setup & Angular structure.
+
+Work Link:
+https://github.com/KOHTheCodeMaster/keep-it
+
+#100daysofcode #MEAN #meanstack #mongodb #expressjs #angular #nodejs #project #fullstackwebdevelopment #meanproject #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 91: Git Advanced
 18th Jan. 2K21, 09:54 PM
 
