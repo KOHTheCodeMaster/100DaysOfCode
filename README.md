@@ -3,6 +3,24 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 93: Angular Standard Project Structure
+20th Jan. 2K21, 09:56 PM
+
+Learnings: standard project structure
+
+Thoughts:
+In-depth understanding of standard project structure for angular project.
+Following the best practices & keep the code clean.
+
+Its better to avoid cluttering the src directory with all the code files & prefer to keep the code structure with efficient modularity for ease of maintenance & reusability of code.
+
+Work Link:
+https://angular.io/guide/styleguide
+
+#100daysofcode #Angular #Frontend #project #mean #meanstack #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 92: Begin Keep-It Project
 19th Jan. 2K21, 09:27 PM
 
