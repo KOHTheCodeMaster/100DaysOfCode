@@ -3,6 +3,27 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 94: Project Analysis
+21st Jan. 2K21, 10:53 PM
+
+Learnings: Practice & Implementation by building a project 'Keep-It'
+
+Thoughts:
+Project analysis & understanding the structure of Google Keep.
+
+Brief overview about the control flow.
+Understanding the key features provided by the Google Keep.
+ 
+Improvising over existing features as well as adding other new features including a lock over the note to avoid mistakenly editing important notes.
+
+Work Link:
+https://www.google.co.in/keep
+
+#100daysofcode #mean #meanstack #protect #fullstack #Webdevelopment 
+
+
+----------------------------------------------------------------------------------------------------
+
 Day 93: Angular Standard Project Structure
 20th Jan. 2K21, 09:56 PM
 
