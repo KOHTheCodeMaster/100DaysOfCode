@@ -3,6 +3,21 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 95: Angular Dialog
+22nd Jan. 2K21, 11:14 PM
+
+Learnings: angular dialog
+
+Thoughts:
+Understanding Angular dialog for the main user interface of the note component of 'Keep-It'.
+Trying to give the same look & feel like Google Keep with the popup of the dialog when clicked on any note.
+
+https://material.angular.io/components/dialog/overview
+
+#100daysofcode #mean #meanstack #project #angular #frontend #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 94: Project Analysis
 21st Jan. 2K21, 10:53 PM
 
