@@ -3,6 +3,39 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 97: Intro. To Docker
+24th Jan. 2K21, 9:40 PM
+
+Learnings: docker, containers, container images, dockerhub
+
+Thoughts:
+As only last few days are left on this journey & realising the project will take more than a week of efforts to be ready. So I've decided to keep that project on hold & utilise these last few days for learning something new & exciting.
+
+Introduction to Docker. Understanding the role & purpose of containers & how they solve the problem of missing or incorrect dependencies.
+
+Work Link:
+https://docs.docker.com/get-started/
+
+#100daysofcode #docker #container #deployment #Webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
+Day 96: Designed Navbar Structure - Keep-It
+23rd Jan. 2K21, 09:13 PM
+
+Learnings: Practice & Implementation by building a project - 'Keep-It'
+
+Thoughts:
+Designing the structure of navbar.
+Keeping the structure similar to Google Keep with the help of bootstrap and custom CSS classes.
+
+Work Link:
+https://lnkd.in/e3u5Dk8
+
+#100daysofcode #mean #meanstack #fullstack #Angular #frontend #bootstrap #css #project #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 95: Angular Dialog
 22nd Jan. 2K21, 11:14 PM
 
