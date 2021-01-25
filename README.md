@@ -3,6 +3,22 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 98: Hands-on Docker
+25th Jan. 2K21, 08:01 PM
+
+Learnings: docker, container, volumes, docker images
+
+Thoughts:
+Play with docker by creating containers of different images from dockerhub & creating custom docker images.
+Practice several commands & mounting volumes in containers.
+
+Work Link:
+https://youtu.be/p28piYY_wv8
+
+#100daysofcode #docker #container #devops #dockerhub #webdevelopment 
+
+----------------------------------------------------------------------------------------------------
+
 Day 97: Intro. To Docker
 24th Jan. 2K21, 9:40 PM
 
