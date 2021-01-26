@@ -3,6 +3,23 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 99: Selenium Web. Automation
+26th Jan. 2K21, 09:16 PM
+
+Learnings: selenium automation
+
+Thoughts:
+Introduction to selenium as a tool for website automation.
+
+it is not limited to just automation testing of web. but opens up endless possibilities of utilising this powerful tool for automation of custom tasks over web. applications.
+
+Work Link:
+https://www.selenium.dev/
+
+#100daysofcode #selenium #automation #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 98: Hands-on Docker
 25th Jan. 2K21, 08:01 PM
 
