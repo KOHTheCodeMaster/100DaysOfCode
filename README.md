@@ -3,6 +3,29 @@ Documenting My Journey Of  '#100DaysOfCode'
 
 ----------------------------------------------------------------------------------------------------
 
+Day 100: Final Showdown
+27th Jan. 2K21, 08:45 PM
+
+I didn't realised it how quickly the time flew & its already the 100th day. It was an amazing journey with lots of new & exciting things to learn.
+
+Before I often got nervous & intimidated when heard about the terms like NodeJS, Mongoose & Mongo DB, Express & Angular Framework.
+It all seemed too big & i thought it'd be tough to tackle them down.
+
+This challenge helped me get past through that mind-set by gradually pacing up & handling one by one with bite sized mini projects for better hands-on experience.
+Now I'm all comfortable working with all of those frameworks & have good understanding.
+
+Although, there's still alot to learn & cover from here. I'll continue working on new projects using the knowledge gained so far.
+Finally, i could say I'm 'Full Stack Web. Developer'.
+
+I'd like to pay my gratitude to all the mentors & developers (youtube, stackoverflow, blogs) , open-source community & all the others for providing the resources for free to learn the skills online.
+
+https://github.com/KOHTheCodeMaster/100DaysOfCode
+
+
+#100daysofcode #mean #meanstack #fullstack #fullstackwebdevelopment #nodejs #expressjs #mongodb #mongoose #angular #frontend #backend #restapi #restfulapi #docker #selenium #webdevelopment
+
+----------------------------------------------------------------------------------------------------
+
 Day 99: Selenium Web. Automation
 26th Jan. 2K21, 09:16 PM
 
